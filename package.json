@@ -1,0 +1,28 @@
+{
+  "name": "daristan",
+  "version": "1.0.0",
+  "description": "Her yêke û şitllêk deçênîn, Daristanêk pêk dênîn",
+  "main": "server.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ferbun-gelawej@github.com/jsglobe-com/daristan.git"
+  },
+  "keywords": [
+    "daristan",
+    "dar",
+    "cengel"
+  ],
+  "author": "jsglobe-com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsglobe-com/daristan/issues"
+  },
+  "homepage": "https://github.com/jsglobe-com/daristan#readme",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
