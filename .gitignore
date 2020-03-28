@@ -1,0 +1,6 @@
+.DS_Store
+.gitconfig
+.tmp
+.vscode/
+node_modules/
+idea/
